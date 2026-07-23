@@ -10,7 +10,7 @@ const items = [
   },
   {
     icon: Award,
-    title: "20+ Yıllık Deneyim",
+    title: "40+ Yıllık Deneyim",
     text: "Binlerce başarılı fotoğraf çekimi.",
   },
   {

@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
 
   description:
-    "Ankara Beşevler'de düğün, mezuniyet, vesikalık, biyometrik, aile ve profesyonel stüdyo çekimleri. 20 yılı aşkın deneyimle Stüdyo Duvak.",
+    "Ankara Beşevler'de düğün, mezuniyet, vesikalık, biyometrik, aile ve profesyonel stüdyo çekimleri. 40 yılı aşkın deneyimle Stüdyo Duvak.",
 
   keywords: [
     "Ankara fotoğrafçı",

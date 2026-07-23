@@ -85,7 +85,7 @@ export default function Hero() {
             className="mt-20 flex gap-16"
           >
             <div>
-              <h3 className="text-5xl font-black text-white">20+</h3>
+              <h3 className="text-5xl font-black text-white">40+</h3>
               <p className="mt-2 text-gray-300">Yıllık Deneyim</p>
             </div>
 
