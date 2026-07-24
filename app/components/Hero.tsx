@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Background */}
 
       <Image
-        src="/images/hero.jpg"
+        src="/images/hero2.jpg"
         alt="Stüdyo Duvak"
         fill
         priority
